@@ -1,2 +1,2 @@
 # SORTING_STYLES
-Soting
+Sorting in python Language
